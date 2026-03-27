@@ -1,4 +1,4 @@
-import ardan from "../assets/ardan.jpg";
+import ardan from "../assets/ardangenteng.jpg";
 
 export default function Ardan() {
   return (
@@ -16,7 +16,7 @@ export default function Ardan() {
         <p className="opacity-80">Teknik Informatika</p>
 
         <p className="mt-4 text-sm">
-          Saya memiliki minat dalam desain UI/UX dan pengembangan frontend...
+          Saya adalah seorang mahasiswa Teknologi Informasi yang memiliki semangat besar untuk terus belajar dan berkembang di dunia digital. Saat ini, saya sedang fokus mendalami berbagai bidang seperti pemrograman, desain web, dan pengelolaan proyek IT. Saya percaya bahwa teknologi memiliki peran penting dalam membentuk masa depan, sehingga saya ingin menjadi bagian dari perubahan tersebut. Selain itu, saya juga memiliki tujuan pribadi untuk mencapai kesuksesan finansial dan menjadi orang kaya melalui kerja keras, konsistensi, serta pemanfaatan peluang di bidang teknologi. Saya tidak hanya ingin sukses untuk diri sendiri, tetapi juga ingin memberikan dampak positif bagi orang sekitar. Dengan tekad yang kuat dan kemauan untuk terus belajar, saya yakin dapat meraih impian saya di masa depan.
         </p>
 
       </div>

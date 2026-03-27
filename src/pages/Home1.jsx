@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import logoUB from "../assets/ub-logo.png";
 import fidho from "../assets/fidho.jpg";
-import ardan from "../assets/ardan.jpg";
+import ardan from "../assets/ardangenteng.jpg";
 import dias from "../assets/dias.jpg";
 
 export default function Home() {
