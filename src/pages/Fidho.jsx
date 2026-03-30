@@ -17,7 +17,7 @@ export default function Fidho() {
 
         <p className="mt-4 text-sm leading-relaxed">
           Saya merupakan mahasiswa Teknologi Informasi di Universitas Brawijaya dengan latar belakang Rekayasa Perangkat Lunak dari SMK Negeri 5 Malang. Ia memiliki minat besar dalam bidang pemrograman, pengembangan aplikasi, serta sistem informasi. Fidho telah mengerjakan berbagai proyek seperti aplikasi mobile berbasis API, aplikasi web menggunakan Laravel, dan aplikasi kalkulator dengan Python Kivy. Selain itu, ia juga memiliki pengalaman magang sebagai desain dan web developer. Dikenal sebagai pribadi yang teliti, bertanggung jawab, dan cepat belajar, Fidho mampu bekerja secara individu maupun dalam tim untuk menyelesaikan berbagai permasalahan teknis secara efektif dan efisien.
-        </p>
+        </p>ter
 
       </div>
     </div>
