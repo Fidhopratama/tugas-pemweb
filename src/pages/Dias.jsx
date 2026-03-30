@@ -16,7 +16,8 @@ export default function Dias() {
         <p className="opacity-80">Teknik Informatika</p>
 
         <p className="mt-4 text-sm">
-          Saya tertarik pada backend development dan sistem database...
+          Saya tertarik pada backend development dan sistem database Saya tertarik pada backend development dan sistem database Saya tertarik pada backend development dan sistem database karena keduanya berperan penting dalam menjalankan logika aplikasi dan mengelola data. Saya ingin mempelajari cara membangun sistem yang efisien, aman, dan terstruktur, serta memahami bagaimana data disimpan, diproses, dan digunakan dalam aplikasi. Dengan itu, saya berharap dapat mengembangkan aplikasi yang stabil dan memiliki performa yang baik.
+          
         </p>
 
       </div>
